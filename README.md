@@ -1,3 +1,1 @@
 # https-github.com-MithunTechnologiesDevOps-maven-web-application
-
-# another change made to check the poll scheduling....
